@@ -20,7 +20,9 @@ body {
 }
 
 #img-div {
-    max-width: 40%;
+    /* max-width of the div surrounding the image is calculated programmatically
+    with JS and varies with image in use currently. 
+    Calculates img's width and changes img-div dimensions accordingly  */
     height: auto;
     background-color: whitesmoke;
     padding: 1rem;
@@ -36,7 +38,6 @@ body {
     border-radius: var(--border-radius);
     cursor: pointer;
     transition: 0.3s;
-
 }
 
 #img-caption {
@@ -153,12 +154,7 @@ a:hover {
 }
 
   @media screen and (max-width: 900px) {
-    #img-div {
-        max-width: 70vw;
-  }
-
   .modal-content {
     max-width: 90%;
-
   }
 }
