@@ -1,7 +1,7 @@
 # Tribute-Page
 Personal Project built from a user story (built with HTML-CSS-JS for practice)
 
-See it online at:
+See it online at: https://xenodochial-blackwell-3a9548.netlify.app/
 
 Used the below user story
 
