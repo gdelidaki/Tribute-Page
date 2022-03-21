@@ -1,12 +1,15 @@
 # Tribute-Page
 Personal Project built from a user story (built with HTML-CSS-JS for practice)
 
-Includes: Image Modal, Link hover transition, Responsive design, Programmatically applies width to the surrounding image-div depending on the current image's dimensions
+Includes: 
+- Image Modal
+- Link hover transition
+- Responsive design
+- Programmatically applies width to the surrounding image-div depending on the current image's dimensions
 
 See it online at: https://xenodochial-blackwell-3a9548.netlify.app/
 
-Used the below user story
-
+# Used the below user story
 --- USER STORY ---
 
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
