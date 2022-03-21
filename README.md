@@ -9,7 +9,7 @@ Includes:
 
 See it online at: https://xenodochial-blackwell-3a9548.netlify.app/
 
-# Used the below user story
+# Used the below user story as a guideline
 
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
 
